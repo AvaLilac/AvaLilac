@@ -17,3 +17,13 @@ You can check out plugins and themes here: https://avalilac.github.io/PluginRepo
 This GitHub is mainly focused on AviaClient right now, and I’m not really working on anything else at the moment.
 
 And im sorry if this readme isnt that good. I'm not fluent in english, My native language is german. But i try to keep everything here. including my code. in english. so people understand. sorry about my mistakes if there is any
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=avalilac%2Ffor-desktop&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=avalilac/for-desktop&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=avalilac/for-desktop&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=avalilac/for-desktop&type=date&legend=top-left" />
+ </picture>
+</a>
