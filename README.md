@@ -1,6 +1,10 @@
 # Hey
 I’m Ava, a developer who’s been coding for 17 years. "as of 3/28/2026"
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AvaLilac&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true&rank_icon=github"/>
+</p>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=AvaLilac&label=Profile%20Views&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
